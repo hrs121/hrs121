@@ -32,7 +32,7 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
 
-### DevOps & Tools
+### Tools & Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
